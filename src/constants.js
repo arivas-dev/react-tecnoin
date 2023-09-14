@@ -1,0 +1,1 @@
+export const GOOGLE_API_URL = (apiKey,text) => `https://maps.googleapis.com/maps/api/place/textsearch/json?query=${text}&key=${apiKey}`
