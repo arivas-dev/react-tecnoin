@@ -1,2 +1,2 @@
-##NOMBRE : Jonathan Alexander Rivas Corea
-##PLAZA: React Developer
+## NOMBRE : Jonathan Alexander Rivas Corea
+## PLAZA: React Developer
